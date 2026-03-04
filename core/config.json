@@ -47,7 +47,7 @@
       "upstreams": [
         {
           "endpoint": "https://ai-proxy.lab.epam.com/openai/deployments/gpt-4o/chat/completions",
-          "key": "dial-g7425c3e4lm7ud0gsmj9ef9c6la"
+          "key": ""
         }
       ]
     }
